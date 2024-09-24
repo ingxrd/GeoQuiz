@@ -1,0 +1,102 @@
+[
+    {
+        "pergunta": "O que são rochas?",
+        "alternativas": [
+            "Materiais compostos apenas de água",
+            "Materiais sólidos que formam a crosta da Terra",
+            "Materiais que só existem em planetas distantes"
+        ],
+        "resposta": "Materiais sólidos que formam a crosta da Terra",
+        "imagem": "https://images.unsplash.com/photo-1521270095464-30665cd41e6f?q=80&w=1450&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "O que é geomorfologia?",
+        "alternativas": [
+            "O estudo dos seres vivos",
+            "O estudo da atmosfera da Terra",
+            "O estudo das formas e características do relevo terrestre"
+        ],
+        "resposta": "O estudo das formas e características do relevo terrestre",
+        "imagem": "https://images.unsplash.com/photo-1720733786851-33d4b66ade06?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "Como a Terra se formou?",
+        "alternativas": [
+            "Através da explosão de uma estrela",
+            "A partir da aglutinação de poeira e gás no espaço",
+            "A partir de rochas que caíram do céu"
+        ],
+        "resposta": "A partir da aglutinação de poeira e gás no espaço",
+        "imagem": "https://plus.unsplash.com/premium_photo-1679998166179-ff35e219ab7e?q=80&w=1404&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "Qual é a importância da água para o planeta?",
+        "alternativas": [
+            "Ela é necessária apenas para os seres humanos",
+            "Ela não é importante",
+            "Ela é essencial para a vida, ajuda na formação de paisagens e regula o clima"
+        ],
+        "resposta": "Ela é essencial para a vida, ajuda na formação de paisagens e regula o clima",
+        "imagem": "https://plus.unsplash.com/premium_photo-1669834300902-dc9e4b342883?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "O que são florestas?",
+        "alternativas": [
+            "Áreas sem vegetação",
+            "Áreas cobertas principalmente por árvores e plantas",
+            "Regiões montanhosas sem água"
+        ],
+        "resposta": "Áreas cobertas principalmente por árvores e plantas",
+        "imagem": "https://images.unsplash.com/photo-1445964047600-cdbdb873673d?q=80&w=1592&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "Quais são os continentes do mundo?",
+        "alternativas": [
+            "Apenas a Europa e a Ásia",
+            "América do Norte, América do Sul, Europa, Ásia, África, Antártida e Oceania",
+            "Somente a África e a Austrália"
+        ],
+        "resposta": "América do Norte, América do Sul, Europa, Ásia, África, Antártida e Oceania",
+        "imagem": "https://images.unsplash.com/photo-1614728672820-e88260ce6d0d?q=80&w=1453&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "O que caracteriza uma paisagem?",
+        "alternativas": [
+            "Apenas as plantas que crescem nela",
+            "O conjunto de elementos naturais e humanos que a compõem",
+            "Somente as construções feitas pelo homem"
+        ],
+        "resposta": "O conjunto de elementos naturais e humanos que a compõem",
+        "imagem": "https://images.unsplash.com/photo-1633849006432-3f4f5890c838?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "O que é um lugar?",
+        "alternativas": [
+            "Um espaço específico com características e significados",
+            "Qualquer área sem importância",
+            "Um país distante"
+        ],
+        "resposta": "Um espaço específico com características e significados",
+        "imagem": "https://plus.unsplash.com/premium_photo-1676667573156-7d14e8b79ad3?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "Qual é o papel das regiões na geografia?",
+        "alternativas": [
+            "Ajudar a dividir o mundo em partes menores para estudo e compreensão",
+            "Não têm importância",
+            "São apenas áreas para turismo"
+        ],
+        "resposta": "Ajudar a dividir o mundo em partes menores para estudo e compreensão",
+        "imagem": "https://plus.unsplash.com/premium_photo-1663090922856-42eb12756351?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "pergunta": "Qual é a relação entre a geologia e a vida na Terra?",
+        "alternativas": [
+            "A geologia não tem relação com a vida",
+            "A geologia fornece os recursos naturais necessários para a vida",
+            "A geologia apenas estuda rochas sem importância"
+        ],
+        "resposta": "A geologia fornece os recursos naturais necessários para a vida",
+        "imagem": "https://images.unsplash.com/photo-1578589318514-262b58e01f19?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+]

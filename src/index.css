@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #272052;
+}
+
+
+
+.image-quiz {
+  width: 100%;  
+  height: 400px; 
+  object-fit: cover;  
+}
+
+/* Telas menores, tipo para cel */
+
+@media (max-width: 768px) {
+  .image-quiz {
+      width: 435px;  
+      height: 176px; 
+  }
+}
+
+/* Telas maiores */
+
+@media (min-width: 769px) {
+  .image-quiz {
+      width: 600px;  
+      height: 400px;
+  }
+}
